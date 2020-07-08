@@ -1,0 +1,5 @@
+.vs/
+TDDDemoAppTests/bin/*
+TDDDemoAppTests/obj/*
+TDDDemoApp/bin/*
+TDDDemoApp/obj/*
